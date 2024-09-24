@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otenser.github.io/sitemap.html.gz
+Sitemap: https://otenser.github.io/app/sitemap.html.gz
+Sitemap: https://otenser.github.io/assets/sitemap.html.gz
+Sitemap: https://otenser.github.io/css/sitemap.html.gz
+Sitemap: https://otenser.github.io/data/sitemap.html.gz
+Sitemap: https://otenser.github.io/includes/sitemap.html.gz
+Sitemap: https://otenser.github.io/item/sitemap.html.gz
+Sitemap: https://otenser.github.io/src/sitemap.html.gz
